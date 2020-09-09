@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\Quantico06\ISTA220\Labs\Lab3C\bin\Debug\netcoreapp3.1\Lab3C.exe
+C:\Users\User\Desktop\Quantico06\ISTA220\Labs\Lab3C\bin\Debug\netcoreapp3.1\Lab3C.deps.json
+C:\Users\User\Desktop\Quantico06\ISTA220\Labs\Lab3C\bin\Debug\netcoreapp3.1\Lab3C.runtimeconfig.json
+C:\Users\User\Desktop\Quantico06\ISTA220\Labs\Lab3C\bin\Debug\netcoreapp3.1\Lab3C.runtimeconfig.dev.json
+C:\Users\User\Desktop\Quantico06\ISTA220\Labs\Lab3C\bin\Debug\netcoreapp3.1\Lab3C.dll
+C:\Users\User\Desktop\Quantico06\ISTA220\Labs\Lab3C\bin\Debug\netcoreapp3.1\Lab3C.pdb
+C:\Users\User\Desktop\Quantico06\ISTA220\Labs\Lab3C\obj\Debug\netcoreapp3.1\Lab3C.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Quantico06\ISTA220\Labs\Lab3C\obj\Debug\netcoreapp3.1\Lab3C.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Quantico06\ISTA220\Labs\Lab3C\obj\Debug\netcoreapp3.1\Lab3C.AssemblyInfo.cs
+C:\Users\User\Desktop\Quantico06\ISTA220\Labs\Lab3C\obj\Debug\netcoreapp3.1\Lab3C.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Quantico06\ISTA220\Labs\Lab3C\obj\Debug\netcoreapp3.1\Lab3C.dll
+C:\Users\User\Desktop\Quantico06\ISTA220\Labs\Lab3C\obj\Debug\netcoreapp3.1\Lab3C.pdb
+C:\Users\User\Desktop\Quantico06\ISTA220\Labs\Lab3C\obj\Debug\netcoreapp3.1\Lab3C.genruntimeconfig.cache

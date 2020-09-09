@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Quantico06\ISTA220\Labs\Factorial\Factorial\bin\Debug\DailyRate.exe.config
+C:\Users\User\Desktop\Quantico06\ISTA220\Labs\Factorial\Factorial\bin\Debug\DailyRate.exe
+C:\Users\User\Desktop\Quantico06\ISTA220\Labs\Factorial\Factorial\bin\Debug\DailyRate.pdb
+C:\Users\User\Desktop\Quantico06\ISTA220\Labs\Factorial\Factorial\obj\Debug\Factorial.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Quantico06\ISTA220\Labs\Factorial\Factorial\obj\Debug\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Quantico06\ISTA220\Labs\Factorial\Factorial\obj\Debug\DailyRate.exe
+C:\Users\User\Desktop\Quantico06\ISTA220\Labs\Factorial\Factorial\obj\Debug\DailyRate.pdb

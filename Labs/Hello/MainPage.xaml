@@ -1,0 +1,21 @@
+﻿<Page
+    x:Class="Hello.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Hello"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid x:Name="userName1">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="337*"/>
+            <RowDefinition Height="663*"/>
+        </Grid.RowDefinitions>
+        <TextBlock x:Name="TextBlock" HorizontalAlignment="Left" Margin="50,42,0,0" Text="Please enter your name" TextWrapping="Wrap" VerticalAlignment="Top" Width="341" Height="184" FontSize="36"/>
+        <Button x:Name="Ok" Content="Ok" Height="79" Margin="533,90,0,0" VerticalAlignment="Top" Width="117" FontSize="36" Click="okClick"/>
+        <TextBox x:Name="userName" HorizontalAlignment="Left" Margin="50,143,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Height="94" Width="274"/>
+
+    </Grid>
+</Page>
